@@ -6,4 +6,8 @@
 
 
 # Future Dev
-- [ ]add animations 
+- [ ]Add animations 
+
+# To use:
+
+- run index.html
