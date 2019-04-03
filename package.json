@@ -1,0 +1,22 @@
+{
+  "name": "launch-pad-app",
+  "version": "1.0.0",
+  "description": "## Create a music player when keys are pressed - [ ]Sounds should play when a key is pressed and/or clicked - [ ]Add UI for users to interact",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stu562/launch-pad-app.git"
+  },
+  "author": "steven tu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stu562/launch-pad-app/issues"
+  },
+  "homepage": "https://github.com/stu562/launch-pad-app#readme",
+  "dependencies": {
+    "paper": "^0.12.0"
+  }
+}
